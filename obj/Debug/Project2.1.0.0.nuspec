@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Project2</id>
+    <version>1.0.0</version>
+    <authors>Project2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Krypton.Docking" version="70.22.11.312" exclude="Build,Analyzers" />
+        <dependency id="Krypton.Navigator" version="70.22.11.312" exclude="Build,Analyzers" />
+        <dependency id="Krypton.Toolkit" version="70.22.11.312" exclude="Build,Analyzers" />
+        <dependency id="Krypton.Workspace" version="70.22.11.312" exclude="Build,Analyzers" />
+        <dependency id="MaterialSkin.2" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="PdfiumViewer" version="2.13.0" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="109.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\STUDY\SEM 6\DNT\Project2\Project2\bin\Debug\net6.0-windows\Project2.runtimeconfig.json" target="lib\net6.0-windows7.0\Project2.runtimeconfig.json" />
+    <file src="D:\STUDY\SEM 6\DNT\Project2\Project2\bin\Debug\net6.0-windows\Project2.dll" target="lib\net6.0-windows7.0\Project2.dll" />
+  </files>
+</package>

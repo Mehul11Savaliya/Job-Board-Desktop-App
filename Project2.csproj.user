@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ApplicantsCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AppliedJobCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CompanyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CompanyUploadMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InterviewDetailCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JobCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PostedJob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PostedJobAdvance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PostjobDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceivedJobCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RegisterDialogcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleDetailsCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ScheduleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserUploadMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
